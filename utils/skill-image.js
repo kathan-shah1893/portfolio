@@ -43,13 +43,13 @@ import memsql from '../app/assets/svg/skills/memsql.svg';
 import microsoftoffice from '../app/assets/svg/skills/microsoftoffice.svg';
 import mongoDB from '../app/assets/svg/skills/mongoDB.svg';
 import mysql from '../app/assets/svg/skills/mysql.svg';
-import nextJS from '../app/assets/svg/skills/nextJS.svg';
+import nextJS from '../app/assets/svg/skills/nextjs.png';
 import nginx from '../app/assets/svg/skills/nginx.svg';
 import numpy from '../app/assets/svg/skills/numpy.svg';
 import nuxtJS from '../app/assets/svg/skills/nuxtJS.svg';
 import opencv from '../app/assets/svg/skills/opencv.svg';
 import photoshop from '../app/assets/svg/skills/photoshop.svg';
-import php from '../app/assets/svg/skills/php.svg';
+import php from '../app/assets/svg/skills/php.jpeg';
 import picsart from '../app/assets/svg/skills/picsart.svg';
 import postgresql from '../app/assets/svg/skills/postgresql.svg';
 import premierepro from '../app/assets/svg/skills/premierepro.svg';
@@ -72,7 +72,7 @@ import vuetifyjs from '../app/assets/svg/skills/vuetifyjs.svg';
 import webix from '../app/assets/svg/skills/webix.svg';
 import wolframalpha from '../app/assets/svg/skills/wolframalpha.svg';
 import wordpress from '../app/assets/svg/skills/wordpress.svg';
-import nodejs from '../app/assets/svg/skills/nodejs.svg'
+import nodejs from '../app/assets/svg/skills/nodejs.png'
 import pandas from '../app/assets/svg/skills/pandas.svg';
 import scikitlearn from '../app/assets/svg/skills/scikit-learn.svg';
 import dotnet from '../app/assets/svg/skills/dotnet.svg';
@@ -83,9 +83,9 @@ import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
 import ubuntu from '../app/assets/svg/skills/ubuntu.svg';
 
-import Flask from '../app/assets/svg/skills/flask.svg';
+import Flask from '../app/assets/svg/skills/flask.png';
 import nest from '../app/assets/svg/skills/Nest.svg';
-import express from '../app/assets/svg/skills/express.svg';
+import express from '../app/assets/svg/skills/expressjs.png';
 import terraform from '../app/assets/svg/skills/terraform.svg';
 import ansible from '../app/assets/svg/skills/ansible.svg';
 import jenkins from '../app/assets/svg/skills/Jenkins.svg';
